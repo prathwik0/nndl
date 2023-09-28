@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Jupyter Theme Dark",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    //jupyter notebook settings
+    "notebook.formatOnSave.enabled": true,
+    "notebook.lineNumbers": "on",
+    //black formattor for python
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.formatOnSave": true
+    },
+    "python.analysis.typeCheckingMode": "basic"
+}
