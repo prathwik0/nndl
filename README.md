@@ -10,6 +10,7 @@
 6. [Dropout Layers](./DropoutLayers.ipynb)
 7. [Sentiment Analysis using ANN](./Sentiment%20Analysis%20using%20ANN.ipynb)
 8. [Classification of Handwritten Digits using CNN](./Classification%20of%20Handwritten%20Digits%20using%20CNN.ipynb)
+9. [Data Augmentation using CNN](./Data%20Augmentation%20using%20CNN.ipynb)
 
 ## Datasets
 
