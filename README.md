@@ -11,6 +11,8 @@
 7. [Sentiment Analysis using ANN](./Sentiment%20Analysis%20using%20ANN.ipynb)
 8. [Classification of Handwritten Digits using CNN](./Classification%20of%20Handwritten%20Digits%20using%20CNN.ipynb)
 9. [Data Augmentation using CNN](./Data%20Augmentation%20using%20CNN.ipynb)
+10. [Image Classification using Transfer Learning](./Image%20Classification%20using%20Transfer%20Learning.ipynb)
+11. [Simple Sentiment Analysis using LSTM](./Simple%20Sentiment%20Analysis%20LSTM.ipynb)
 
 ## Datasets
 
